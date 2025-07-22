@@ -74,12 +74,10 @@
   <a href="https://dev.to/heyitshassan" target="_blank">
     <img src="https://www.svgrepo.com/show/349334/dev-to.svg" alt="Dev.to" height="30" width="30" />
   </a>
-  
   &nbsp;&nbsp;
   <a href="https://twitter.com/hello_itshassan" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/300px-X_logo_2023.svg.png" alt="Twitter" height="30" width="30" />
   </a>
-
  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/i-mhassan-dev" target="_blank">
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="30" width="30" />
