@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg" width="40" height="40" alt="Blender"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.png" width="40" height="40" alt="Blender"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" alt="Chart.js"/>
 </p>
 
