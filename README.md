@@ -11,18 +11,24 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **My Personal Portfolio**  
-<br>
+- 🔭 I’m currently working on **My Personal Portfolio**
+
+  
 - 🌱 I’m currently learning **Advanced Backend Development & AI Integrations**  
-<br>
+
+
 - 👯 I’m open to collaborating on **Full Stack Projects and Open Source**  
-<br>
+
+
 - 🤖 I’m exploring **AI Agents, LLMs, and Workflow Automation**  
-<br>
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, etc.**  
-<br>
+
+
+- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, etc...**  
+
+
 - 📫 Reach me at **muhammadhassan1806@gmail.com**  
-<br>
+
+
 - 🌐 Portfolio: **Coming Soon**
 
 ---
